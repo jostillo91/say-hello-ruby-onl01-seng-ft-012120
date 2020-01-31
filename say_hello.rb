@@ -1,7 +1,6 @@
 
 
-def say_hello(name=chingon)
+def say_hello(name)
   puts "Hello #{name}!"
 end
 
-say_hello("Gabiella")
